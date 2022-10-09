@@ -150,10 +150,23 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  
   background-size: cover;
   position: relative;
 }
@@ -304,6 +317,10 @@ section {
   .section-title span {
     font-size: 38px;
   }
+  .navbar{
+    max-width: 470px;
+    background-color: black;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -371,11 +388,15 @@ section {
 /*--------------------------------------------------------------
 # About Me
 --------------------------------------------------------------*/
+.about{
+  background-color: white;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
   color: #3b434a;
   text-transform: uppercase;
+  
 }
 
 .about .content ul {
@@ -493,6 +514,12 @@ section {
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
+.resume {
+  background-color: #82909c;
+}
+
+
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -556,7 +583,7 @@ section {
 .services .card{
   margin:1rem;
   padding: 1rem;
-  background-color: rgba(0, 0, 0, 0.12);
+  background-color: rgba(245, 237, 237, 0.877);
   min-height: 350px;
   position: relative;
   overflow: hidden;
@@ -779,10 +806,13 @@ section {
 /*--------------------------------------------------------------
 # Contact Me
 --------------------------------------------------------------*/
+.contact{
+  background-color: #e0dddd;
+}
 .contact .info-box {
   color: #444444;
   text-align: center;
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  box-shadow: 0 0 30px rgb(214, 215, 216);
   padding: 20px 0 30px 0;
 }
 
