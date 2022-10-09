@@ -318,9 +318,14 @@ section {
     font-size: 38px;
   }
   .navbar{
-    max-width: 470px;
+    max-width: 390px;
     background-color: black;
   }
+  .navbar a{
+    
+    padding: 6px 4px;
+  }
+  
 }
 
 /*--------------------------------------------------------------
