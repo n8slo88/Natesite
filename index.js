@@ -15,7 +15,6 @@ progressBar.forEach(bar=>{
              return;
             }
     })
-    
 }  
 
 

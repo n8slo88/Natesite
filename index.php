@@ -69,7 +69,9 @@
         </div>
 
         <div class="row">
-          <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+          <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start">
+              <img src="img/me.jpg" alt="me" height="500px"/>
+          </div>
           <div class="col-lg-8 d-flex flex-column align-items-stretch">
             <div class="content ps-lg-4 d-flex flex-column justify-content-center">
               <div class="row">
@@ -128,7 +130,7 @@
               </div>
 
               <div class="progress">
-                <span class="skill">MongoDB, SQL, PowerBI, Excel, YAML  <i class="val">75%</i></span>
+                <span class="skill">MongoDB, SQL, PowerBI, Excel  <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
@@ -156,8 +158,7 @@
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>From General Contractor to IT</h4>
-              <p><em>After working in facilities management and construction, I have taken the initiative to become more tech proficient and work
-                 in IT and application devlopment.</em></p>
+              <p><em>After working in facilities management and construction I made a career change to Software Development</em></p>
               
             </div>
 
@@ -183,16 +184,16 @@
 
 
             <div class="resume-item">
+              <h4>Udemy Python Deveelopment Bootcamp</h4>
+              <h5>2018</h5>
+              <p><em>Udemy.com</em></p>
+              <p>Python, Flask, SQL, Git, Data</p>
+            </div>
+            <div class="resume-item">
               <h4>Udemy Web Development Bootcamp</h4>
               <h5>2019</h5>
               <p><em>Udemy.com</em></p>
               <p>Expanding my skill set to include computer coding after work every evening I studied web development from Html to building and deploying full stack sites, Web3, Databases, Encryption, Api's, Frameworks, Libraries.</p>
-            </div>
-            <div class="resume-item">
-              <h4>Udemy Python Deveelopment Bootcamp</h4>
-              <h5>2020</h5>
-              <p><em>Udemy.com</em></p>
-              <p>Python, Flask, SQL, Git, YAML</p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -218,15 +219,18 @@
               <p>
                 <ul>
                 <li>Oversee the efficient use of production project budgets ranging from $2,000 - $120,000</li>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed several projects or tasks at a given time while under pressure</li>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, and advertisements).</li>
+                <li>Managed several projects or tasks at a given time.</li>
                 <li>Recommended and consulted with clients, architects, subcontractors, and suppliers </li>
                 <li>Maintain CRM software to interact with clients </li>
               </ul>
               </p>
             </div>
             <div class="resume-item">
-              <h4>Additional information available upon request</h4>
+              <h4>Download a full PDF resume here</h4>
+              <button class="btn btn-secondary" type="submit" style="margin-top: 1rem">
+              <a  id="downbutton" href="download.php?file=NathanSlossResume.pdf">Download</a>
+            </button>
               
             </div>
           </div>
@@ -249,68 +253,23 @@
 
           <div class="col-md-6 col-lg-4">
             <div class="card" >
-              <div class="icon"><h2>B</h2></div>
-              <h4 class="title"><a href="https://barbecue-blog-start.herokuapp.com" target="_blank">BBQ Reporter</a></h4>
+              <div class="icon"><h2>K</h2></div>
+              <h4 class="title"><a href="https://Kikads.app" target="_blank">Kik Ads</a></h4>
               <p class="description">
-                  <li>Python</li>
-                  <li>Flask</li>
-                  <li>SQLAlchemy</li> 
-                  <li>Encryption</li> 
+                  <li>NextJS</li>
+                  <li>Tailwind CSS</li>
+                  <li>Mux Video API</li> 
+                  <li>Sanity CRM</li> 
+                  <li>Ethereum Smart Contract</li>
+                  <li>Google Auth</li>
               </p>
               </div>
             </div>
-          
 
-          <div class="col-md-6 col-lg-4">
-            <div class="card" >
-              <div class="icon"><h2>B</h2></div>
-              <h4 class="title"><a href="https://bidstreetprojectdemo.herokuapp.com" target="_blank">Bidstreet</a></h4>
-              <p class="description">
-                  <li>MongoDB</li>
-                  <li>NodeJS</li>
-                  <li>Mongoose</li>
-                  <li>Passport </li>
-                  <li>Heroku</li>
-                  <li>Bootstrap </li>
-              </p>
+            <div class="col-md-6 col-lg-4 ">
+              <div class="card">
+              <div class="icon"><h2>E</h2>
               </div>
-            </div>
-          
-
-          <div class="col-md-6 col-lg-4 ">
-            <div class="card">
-              <div class="icon"><h2>H</h2></div>
-              <h4 class="title"><a href="https://houdini-ml.herokuapp.com" target="_blank">Houdini</a></h4>
-              <p class="description">
-                <li>Mailchimp API</li>
-                <li>Bootstrap</li>
-                <li>Netlify</li>
-              </p>
-              </div>
-            </div>
-           </div>
-        </div>
-        
-        <div class="container">
-        <div class="row">
-
-          <div class="col-md-6 col-lg-4 ">
-            <div class="card">
-              <div class="icon"><h2>E</h2></div>
-              <h4 class="title"><a href="https://task-email-app.herokuapp.com/" target="_blank">Email Tasks App</a></h4>
-              <p class="description">   
-                  <li>Email API</li>
-                  <li>Bootstrap</li>
-                  <li>Netlify</li>
-                  <li>JQuery</li>
-              </p>
-              </div>
-            </div>
-          
-
-          <div class="col-md-6 col-lg-4 ">
-            <div class="card">
-              <div class="icon"><h2>E</h2></div>
               <h4 class="title"><a href="https://evil-grin-studios.herokuapp.com/" target="_blank">EGS 3D</a></h4>
               <p class="description">   
                   <li>PHP</li>
@@ -319,8 +278,40 @@
                   <li></li>
               </p>
               </div> 
+            </div> 
+
+            <div class="col-md-6 col-lg-4">
+            <div class="card" >
+              <div class="icon"><h2>B</h2></div>
+              <h4 class="title"><a href="https://barbecue-blog-start.herokuapp.com" target="_blank">BBQ Reporter</a></h4>
+              <p class="description">
+                  <li>Python</li>
+                  <li>Flask</li>
+                  <li>SQLAlchemy</li> 
+                  
+              </p>
+              </div>
             </div>
-          
+
+        </div>
+        
+        <div class="container">
+        <div class="row">
+
+            <div class="col-md-6 col-lg-4">
+            <div class="card" >
+              <div class="icon"><h2>B</h2></div>
+              <h4 class="title"><a href="https://bidstreetprojectdemo.herokuapp.com" target="_blank">Bidstreet</a></h4>
+              <p class="description">
+                  <li>MongoDB</li>
+                  <li>NodeJS</li>
+                  <li>Mongoose</li>
+                  <li>Passport </li>
+                  <li>Bootstrap </li>
+              </p>
+              </div>
+            </div>
+        
 
           <div class="col-md-6 col-lg-4 ">
             <div class="card">
@@ -333,9 +324,21 @@
                   <li></li>
               </p>
               </div>
+            </div>   
+        
+
+          <div class="col-md-6 col-lg-4 ">
+            <div class="card">
+              <div class="icon"><h2>H</h2></div>
+              <h4 class="title"><a href="https://houdini-ml.herokuapp.com" target="_blank">Houdini</a></h4>
+              <p class="description">
+                <li>Mailchimp API</li>
+                <li>Bootstrap</li>
+                
+              </p>
+              </div>
             </div>
-            
-          </div>
+           
         
         </div>
     </section><!-- End My Services Section -->
@@ -378,7 +381,7 @@
 
           <div class="col-lg-6">
             <div class="info-box mt-3">
-            <form  role="form" class="email-form" style="margin: 1rem">
+            <form  role="form"  method="post" class="email-form" style="margin: 1rem"  action="sentemail.php">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -392,11 +395,12 @@
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="6" 
-                placeholder="This form disabled at this time. Sorry for the inconvenience" required></textarea>
+                placeholder="" required></textarea>
               </div>
       
               <div class="text-center"><button class="btn btn-secondary" type="submit" style="margin-top: 1rem">Send Message</button></div>
             </form>
+            
             </div>
           </div>
 

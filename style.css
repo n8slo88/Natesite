@@ -474,7 +474,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url() center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -1050,4 +1050,10 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+#downbutton .resume-item {
+  background-color:#f3a200;
+  color: white;
+  width: 150px;
 }
