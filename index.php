@@ -78,7 +78,8 @@
                 <div class="col-lg-6">
                   <ul>
                     <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Nathan Paul Sloss</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <a href="https://www.github.com/n8slo88" target="_blank">Github</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <a href="https://www.github.com/n8slo88" target="_blank">Github</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/n8slo" target="_blank">LinkedIn</a></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+01 (206) 658-3274</span></li>
                     <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kansas City, USA</span></li>
                   </ul>
