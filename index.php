@@ -103,35 +103,35 @@
                
             <div class="skills-content ps-lg-4">
               <div class="progress">
-                <span class="skill">HTML, CSS, MediaQuery, Bootstrap<i class="val">100%</i></span>
+                <span class="skill">HTML, CSS, React, NextJs<i class="val">100%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar"  role="progressbar" valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">JavaScript, JQuery <i class="val">90%</i></span>
+                <span class="skill">Tailwind, Sass, CSS <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">React, Angular, MVC, OOP <i class="val">90%</i></span>
+                <span class="skill">Python, C#, Node <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" valuenow= "90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">Python,, Node, PHP<i class="val">90%</i></span>
+                <span class="skill">Kubernetes, Docker, Cloud, Git<i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
 
               <div class="progress">
-                <span class="skill">MongoDB, SQL, PowerBI, Excel  <i class="val">75%</i></span>
+                <span class="skill">Microservices, Devops, Agile <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
@@ -230,7 +230,7 @@
             <div class="resume-item">
               <h4>Download a full PDF resume here</h4>
               <button class="btn btn-secondary" type="submit" style="margin-top: 1rem">
-              <a  id="downbutton" href="download.php?file=NathanSlossResume.pdf">Download</a>
+              <a  id="downbutton" href="download.php?file=Resume.pdf">Download</a>
             </button>
               
             </div>
@@ -316,13 +316,15 @@
 
           <div class="col-md-6 col-lg-4 ">
             <div class="card">
-              <div class="icon"><h2>G</h2></div>
-              <h4 class="title"><a href="http://github.com/n8slo88" target="_blank">GITHUB</a></h4>
+              <div class="icon"><h2>K</h2></div>
+              <h4 class="title"><a href="https://kik-send.onrender.com/" target="_blank">Kika.io</a></h4>
               <p class="description">   
-                  <li>Additional projects</li>
-                  <li>Code Source</li>
-                  <li></li>
-                  <li></li>
+                  <li>React</li>
+                  <li>Tailwind</li>
+                  <li>MongoDB</li>
+                  <li>Auth0</li>
+                  <li>Blockchain</li>
+                  <li>Square Payments Sdk</li>
               </p>
               </div>
             </div>   
