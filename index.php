@@ -332,10 +332,10 @@
 
           <div class="col-md-6 col-lg-4 ">
             <div class="card">
-              <div class="icon"><h2>H</h2></div>
-              <h4 class="title"><a href="https://houdini-ml.herokuapp.com" target="_blank">Houdini</a></h4>
+              <div class="icon"><h2>T</h2></div>
+              <h4 class="title"><a href="https://translator-app-french.herokuapp.com/" target="_blank">Translator App</a></h4>
               <p class="description">
-                <li>Mailchimp API</li>
+                <li>Ibm Watson Cloud Svs</li>
                 <li>Bootstrap</li>
                 
               </p>
